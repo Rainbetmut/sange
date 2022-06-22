@@ -38,145 +38,145 @@ ${mundur}
  • Balance : $${toCommas(getBalance(sender, balance))}
 
 *MAIN MENU*${petik}
- • ${prefix}menu
- • ${prefix}infobot
- • ${prefix}donate
- • ${prefix}dashboard
- • ${prefix}owner
- • ${prefix}cekdrive
- • ${prefix}cekbandwidth
- • ${prefix}cekpremium
- • ${prefix}listpremium
- • ${prefix}listsewa
- • ${prefix}speed
- • ${prefix}runtime
- • ${prefix}listbahasa${petik}
+ ➸ ${prefix}menu
+ ➸ ${prefix}infobot
+ ➸ ${prefix}donate
+ ➸ ${prefix}dashboard
+ ➸ ${prefix}owner
+ ➸ ${prefix}cekdrive
+ ➸ ${prefix}cekbandwidth
+ ➸ ${prefix}cekpremium
+ ➸ ${prefix}listpremium
+ ➸ ${prefix}listsewa
+ ➸ ${prefix}speed
+ ➸ ${prefix}runtime
+ ➸ ${prefix}listbahasa${petik}
 
 *CONVERTER/TOOLS*${petik} 
- • ${prefix}sticker
- • ${prefix}stickerwm
- • ${prefix}smeme
- • ${prefix}toimg
- • ${prefix}tovideo
- • ${prefix}tomp3
- • ${prefix}ttp
- • ${prefix}attp
- • ${prefix}emojimix
- • ${prefix}nuliskiri
- • ${prefix}nuliskanan
- • ${prefix}foliokiri
- • ${prefix}foliokanan
- • ${prefix}say
- • ${prefix}translate${petik}
+ ➸ ${prefix}sticker
+ ➸ ${prefix}stickerwm
+ ➸ ${prefix}smeme
+ ➸ ${prefix}toimg
+ ➸ ${prefix}tovideo
+ ➸ ${prefix}tomp3
+ ➸ ${prefix}ttp
+ ➸ ${prefix}attp
+ ➸ ${prefix}emojimix
+ ➸ ${prefix}nuliskiri
+ ➸ ${prefix}nuliskanan
+ ➸ ${prefix}foliokiri
+ ➸ ${prefix}foliokanan
+ ➸ ${prefix}say
+ ➸ ${prefix}translate${petik}
 
 *ANONYMOUS CHATS*${petik}
- • ${prefix}anonymous
- • ${prefix}start
- • ${prefix}next
- • ${prefix}stop
- • ${prefix}sendprofile${petik}
+ ➸ ${prefix}anonymous
+ ➸ ${prefix}start
+ ➸ ${prefix}next
+ ➸ ${prefix}stop
+ ➸ ${prefix}sendprofile${petik}
 
 *STORE MENU*${petik}
- • ${prefix}list
- • ${prefix}addlist
- • ${prefix}dellist
- • ${prefix}update
- • ${prefix}jeda
- • ${prefix}tambah
- • ${prefix}kurang
- • ${prefix}kali
- • ${prefix}bagi
- • p < reply chat >
- • d < reply chat >${petik}
+ ➸ ${prefix}list
+ ➸ ${prefix}addlist
+ ➸ ${prefix}dellist
+ ➸ ${prefix}update
+ ➸ ${prefix}jeda
+ ➸ ${prefix}tambah
+ ➸ ${prefix}kurang
+ ➸ ${prefix}kali
+ ➸ ${prefix}bagi
+ ➸ .p < reply chat >
+ ➸ .p < reply chat >${petik}
 
 *DOWNLOADS MENU*${petik}
- • ${prefix}play
- • ${prefix}ytmp3
- • ${prefix}ytmp4
- • ${prefix}instagram
- • ${prefix}igstory
- • ${prefix}tiktok
- • ${prefix}tiktoknowm
-  • ${prefix}tiktokaudio
- • ${prefix}facebook
- • ${prefix}mediafire${petik}
+ ➸ ${prefix}play
+ ➸ ${prefix}ytmp3
+ ➸ ${prefix}ytmp4
+ ➸ ${prefix}instagram
+ ➸ ${prefix}igstory
+ ➸ ${prefix}tiktok
+ ➸ ${prefix}tiktoknowm
+ ➸ ${prefix}tiktokaudio
+ ➸ ${prefix}facebook
+ ➸ ${prefix}mediafire${petik}
 
 *GROUP MENU*${petik}
- • ${prefix}afk
- • ${prefix}welcome
- • ${prefix}left
- • ${prefix}setwelcome
- • ${prefix}changewelcome
- • ${prefix}delsetwelcome
- • ${prefix}setleft
- • ${prefix}changeleft
- • ${prefix}delsetleft
- • ${prefix}linkgc
- • ${prefix}setppgc
- • ${prefix}setnamegc
- • ${prefix}setdesc
- • ${prefix}antilink
- • ${prefix}antiwame
- • ${prefix}open
- • ${prefix}close
- • ${prefix}add
- • ${prefix}kick
- • ${prefix}promote
- • ${prefix}demote
- • ${prefix}revoke
- • ${prefix}hidetag
- • ${prefix}checksewa${petik}
+ ➸ ${prefix}afk
+ ➸ ${prefix}welcome
+ ➸ ${prefix}left
+ ➸ ${prefix}setwelcome
+ ➸ ${prefix}changewelcome
+ ➸ ${prefix}delsetwelcome
+ ➸ ${prefix}setleft
+ ➸ ${prefix}changeleft
+ ➸ ${prefix}delsetleft
+ ➸ ${prefix}linkgc
+ ➸ ${prefix}setppgc
+ ➸ ${prefix}setnamegc
+ ➸ ${prefix}setdesc
+ ➸ ${prefix}antilink
+ ➸ ${prefix}antiwame
+ ➸ ${prefix}open
+ ➸ ${prefix}close
+ ➸ ${prefix}add
+ ➸ ${prefix}kick
+ ➸ ${prefix}promote
+ ➸ ${prefix}demote
+ ➸ ${prefix}revoke
+ ➸ ${prefix}hidetag
+ ➸ ${prefix}checksewa${petik}
 
 *GAME MENU*${petik}
- • ${prefix}tictactoe
- • ${prefix}delttt
- • ${prefix}casino
- • ${prefix}delcasino${petik}
+ ➸ ${prefix}tictactoe
+ ➸ ${prefix}delttt
+ ➸ ${prefix}casino
+ ➸ ${prefix}delcasino${petik}
 
 *SEARCH MENU*${petik}
- • ${prefix}lirik
- • ${prefix}grupwa
- • ${prefix}pinterest
- • ${prefix}ytsearch
- • ${prefix}searchbyimage${petik}
+ ➸ ${prefix}lirik
+ ➸ ${prefix}grupwa
+ ➸ ${prefix}pinterest
+ ➸ ${prefix}ytsearch
+ ➸ ${prefix}searchbyimage${petik}
 
 *RANDOM MENU*${petik}
- • ${prefix}cecan
- • ${prefix}cogan
- • ${prefix}waifu${petik}
+ ➸ ${prefix}cecan
+ ➸ ${prefix}cogan
+ ➸ ${prefix}waifu${petik}
 
 
 *BALANCE MENU*${petik}
- • ${prefix}topglobal
- • ${prefix}toplocal
- • ${prefix}buylimit
- • ${prefix}buyglimit
- • ${prefix}transfer
- • ${prefix}limit
- • ${prefix}balance${petik}
+ ➸ ${prefix}topglobal
+ ➸ ${prefix}toplocal
+ ➸ ${prefix}buylimit
+ ➸ ${prefix}buyglimit
+ ➸ ${prefix}transfer
+ ➸ ${prefix}limit
+ ➸ ${prefix}balance${petik}
 
 *BAILEYS*${petik}
- • ${prefix}fitnah
- • ${prefix}nowa
- • ${prefix}getquoted
- • ${prefix}fakehidetag
- • ${prefix}react
- • ${prefix}setcmd
- • ${prefix}delcmd${petik}
+ ➸ ${prefix}fitnah
+ ➸ ${prefix}nowa
+ ➸ ${prefix}getquoted
+ ➸ ${prefix}fakehidetag
+ ➸ ${prefix}react
+ ➸ ${prefix}setcmd
+ ➸ ${prefix}delcmd${petik}
 
 *OWNERS MENU*${petik}
- • ${prefix}join
- • ${prefix}left
- • ${prefix}self
- • ${prefix}public
- • ${prefix}setprefix
- • ${prefix}setppbot
- • ${prefix}broadcast
- • ${prefix}bcsewa
- • ${prefix}addpremium
- • ${prefix}delpremium
- • ${prefix}addsewa
- • ${prefix}delsewa${petik}`
+ ➸ ${prefix}join
+ ➸ ${prefix}left
+ ➸ ${prefix}self
+ ➸ ${prefix}public
+ ➸ ${prefix}setprefix
+ ➸ ${prefix}setppbot
+ ➸ ${prefix}broadcast
+ ➸ ${prefix}bcsewa
+ ➸ ${prefix}addpremium
+ ➸ ${prefix}delpremium
+ ➸ ${prefix}addsewa
+ ➸ ${prefix}delsewa${petik}`
 }
 
 exports.donate = (pushname, ownerNumber) => {
