@@ -86,8 +86,8 @@ ${mundur}
  • ${prefix}kurang
  • ${prefix}kali
  • ${prefix}bagi
- • proses < reply chat >
- • done < reply chat >${petik}
+ • p < reply chat >
+ • d < reply chat >${petik}
 
 *DOWNLOADS MENU*${petik}
  • ${prefix}play
